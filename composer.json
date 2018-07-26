@@ -1,23 +1,29 @@
 {
   "name": "dragonlhp/tp5-module",
   "description": "Tp5 External Module ",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "keywords": [
+    "tp5",
+    "module"
+  ],
+  "version": "1.3",
   "authors": [
     {
-      "name": "paul",
+      "name": "Pauli",
       "email": "dragon_lhp@qq.com"
     }
   ],
-  "version": "1.2",
-  "minimum-stability":"dev",
-  "license":"MIT License",
-
-  "require-dev": {
-    "topthink/framework": "^5.0"
+  "require": {
+    "php": ">=7.0"
   },
-  "require": {},
+  "require-dev": {
+  },
+  "suggest": {
+  },
   "autoload": {
-    "psr-4": {
-      "think\\": "src"
+    "psr-0": {
+      "Jenner\\Crontab": "src/"
     }
   }
 }
