@@ -8,6 +8,9 @@
     }
   ],
   "version": "1.2",
+  "minimum-stability":"dev",
+  "license":"MIT License",
+
   "require-dev": {
     "topthink/framework": "^5.0"
   },
