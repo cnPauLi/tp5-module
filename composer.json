@@ -1,0 +1,19 @@
+{
+  "name": "dragonlhp/tp5-module",
+  "description": "Tp5 External Module ",
+  "authors": [
+    {
+      "name": "paul",
+      "email": "dragon_lhp@qq.com"
+    }
+  ],
+  "require-dev": {
+    "topthink/framework": "^5.0"
+  },
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "think\\": "src"
+    }
+  }
+}
