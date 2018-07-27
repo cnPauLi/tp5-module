@@ -2,12 +2,11 @@
   "name": "dragonlhp/tp5-module",
   "description": "Tp5 External Module ",
   "license": "MIT",
-  "minimum-stability": "1.5",
   "keywords": [
     "tp5",
     "module"
   ],
-  "version": "1.5",
+  "version": "1.6",
   "authors": [
     {
       "name": "Pauli",
@@ -16,10 +15,6 @@
   ],
   "require": {
     "php": ">=7.0"
-  },
-  "require-dev": {
-  },
-  "suggest": {
   },
   "autoload": {
     "psr-0": {

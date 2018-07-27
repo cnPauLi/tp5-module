@@ -9,7 +9,7 @@
 	class Index
 	{
 		public function index(){
-			echo 'index   1。5';
+			echo 'index   1。6';
 		}
 
 	}
